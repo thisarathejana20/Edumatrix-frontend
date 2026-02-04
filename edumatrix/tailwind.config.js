@@ -26,6 +26,9 @@ export default {
         xl: "14px",
         "2xl": "18px",
       },
+      fontFamily: {
+        sans: ["Inter", "system-ui", "sans-serif"],
+      },
     },
   },
   plugins: [],

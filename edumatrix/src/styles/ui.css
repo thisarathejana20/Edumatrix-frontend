@@ -20,8 +20,9 @@
            flex items-center justify-center;
   }
   .btn-secondary {
-    @apply bg-slate-100 hover:bg-slate-200 text-slate-700 font-medium
-           rounded-xl px-5 py-2 transition duration-200;
+  @apply bg-slate-100 hover:bg-slate-200 text-slate-700 font-medium
+         rounded-xl px-5 py-2 transition duration-200
+         flex items-center justify-center;
   }
   .btn-danger {
     @apply bg-red-600 hover:bg-red-700 text-white font-medium
