@@ -1,0 +1,10 @@
+@import "tailwindcss";
+@import "./styles/ui.css";
+@config "../tailwind.config.js";
+
+
+body {
+  font-family: Inter, system-ui, sans-serif;
+  background: #F8FAFC;
+}
+
